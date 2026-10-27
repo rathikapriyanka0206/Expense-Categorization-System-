@@ -2,9 +2,7 @@
 
 An interactive Excel dashboard that categorizes personal expenses (food, rent, travel, entertainment, utilities, shopping, health, education) and visualizes category-wise spending with pie/doughnut charts, KPIs and pivot tables — to improve understanding of **cash-flow management and expense control**.
 
-> **Internship Task 2 — Infobyte** &nbsp;|&nbsp; Built with **Microsoft Excel**
-
-![Dashboard Preview](images/dashboard-preview.png)
+> **Internship  — Infobyte** &nbsp;|&nbsp; Built with **Microsoft Excel**
 
 ---
 
